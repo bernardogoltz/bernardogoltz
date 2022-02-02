@@ -1,5 +1,7 @@
 # Hello, I’m Bernardo. @bernardogoltz
- [![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?bernardogoltz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardogoltz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - I have 18 years old, and I’m interested in Web Development, Math, Echonomics and DataScience.
 - I’m currently learning JavaScript and Python. 
