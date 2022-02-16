@@ -1,6 +1,7 @@
 # Hello, I’m Bernardo. @bernardogoltz
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardogoltz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardogoltz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
