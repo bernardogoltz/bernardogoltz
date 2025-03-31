@@ -3,7 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo_Ivo_Goltz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bernardogoltz)
 
 🎓 Electrical Engineering Student @ UFSM 
+
 👨‍💻 Internship @ ANEEL - Brazilian National Agency of Electric Energy 
+
 📊 Data Science & Analytics, Machine Learning and Deep Learning enthusiast
 
 ## Projects: 
