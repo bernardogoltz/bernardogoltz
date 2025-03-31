@@ -1,7 +1,8 @@
 ## About Me
-[![GitHub Profile](https://img.shields.io/badge/GitHub-BernardoGoltz-181717?style=for-the-badge&logo=github)](https://github.com/bernardogoltz)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-bernardogoltz-181717?style=flat&logo=github)](https://github.com/bernardogoltz)
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-BernardoGoltz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bernardo-ivo-goltz-b7b122141/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernardo_Ivo_Goltz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bernardogoltz)
+
 
 
 Electrical Engineering Student @ UFSM 
