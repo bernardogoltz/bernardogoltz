@@ -6,7 +6,7 @@
 
 📊 [Center of Excellence in Energy and Power Systems (CEESP)](https://ceesp.ufsm.br) & [National Electric Energy Agency (ANEEL)](https://www.gov.br/aneel/pt-br)
 
-## Public Projects: 
+## Public Projects
 - [Awesome Industrial Datasets - A Curated Collection of Public Industrial Datasets.](https://github.com/bernardogoltz/awesome-industrial-datasets)
 - [Comparison of gap-filling methods for CO2 flux data](https://periodicos.ufsm.br/cienciaenatura/article/view/80997)
 
