@@ -5,6 +5,7 @@
 Electrical Engineering Student @ UFSM working with Data Science applied to Energy Sector 
 
 📊 [Center of Excellence in Energy and Power Systems (CEESP)](https://ceesp.ufsm.br)
+
 📊 [National Electric Energy Agency (ANEEL)](https://www.gov.br/aneel/pt-br)
 
 
